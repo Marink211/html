@@ -67,7 +67,7 @@ body {
   
   
 }
-.cat-title{
+#cat-title{
 	background-image: url('images/catpattern.jpg');
 	background-size: 300px;
 	top:30px;
